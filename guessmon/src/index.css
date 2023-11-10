@@ -21,13 +21,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-/* src/index.css or src/App.css */
 
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
-.font-pokemon {
-  font-family: 'Press Start 2P', cursive;
-}
 
 .animated-gradient {
   background: linear-gradient(45deg, #f7d200, #005cbf, #ff1a1a);
